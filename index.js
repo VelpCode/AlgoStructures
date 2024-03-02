@@ -8,7 +8,12 @@ function sumOfNaturalNumber(num) {
         for(let i = 1; i<num; i++){
             sum = sum + i;
     }
-
     return sum;
 }
 
+
+console.log(sumOfNaturalNumber(5));
+
+console.log(sumOfNaturalNumber(10));
+
+console.log(sumOfNaturalNumber(8))
