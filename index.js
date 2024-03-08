@@ -10,10 +10,3 @@ function sumOfNaturalNumber(num) {
     }
     return sum;
 }
-
-
-console.log(sumOfNaturalNumber(5));
-
-console.log(sumOfNaturalNumber(10));
-
-console.log(sumOfNaturalNumber(8))
